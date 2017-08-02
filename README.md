@@ -10,7 +10,7 @@ So I thought that some basic data science might help answer: **is there a way to
 
 As a fellow trainer pointed out: "I only keep them when their cp is high (>260)". She came up with this idea empirically, keeping those Pidgeys ensure that her Pidgey count goes up one by one when Pidgey's candies goes up 3 times faster (*1 kept, 3 transfered = enough candies for 1 evolution*).
 
-The jupyter-notebook explores Pidgey's CP distribution and evaluate the CP threshold that guaranties a proportionate growth between Pidgeys and Pidgeys' candies. Now when you hit 825 Pidgeys' candies you approximately have 75 Pidgeys read to level up.
+The jupyter-notebook explores Pidgey's CP distribution and evaluate the CP threshold that guaranties a proportionate growth between Pidgeys and Pidgeys' candies. Now when, if following the lazy policy, you hit 825 Pidgeys' candies you approximately have 75 Pidgeys ready to level up.
 
 Improve CP calculation: **WIP**
 
